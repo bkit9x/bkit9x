@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm Kha from VietNam 👋</h1>
 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/kha1999)
+[![](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/hkit9x)
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://bkit9x.github.io/)
 
 
